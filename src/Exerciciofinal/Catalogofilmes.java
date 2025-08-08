@@ -1,4 +1,4 @@
-// Catalogofilmes.java
+// Catalogofilmes
 // Esse é o menu principal, onde dá pra cadastrar e pesquisar filmes, atores e diretores
 
 package Exerciciofinal;
